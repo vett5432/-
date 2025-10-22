@@ -1,0 +1,8 @@
+D:\проекты\ConsoleApp2_1.2\ConsoleApp2_1.2\bin\Debug\ConsoleApp2_1.2.exe.config
+D:\проекты\ConsoleApp2_1.2\ConsoleApp2_1.2\bin\Debug\ConsoleApp2_1.2.exe
+D:\проекты\ConsoleApp2_1.2\ConsoleApp2_1.2\bin\Debug\ConsoleApp2_1.2.pdb
+D:\проекты\ConsoleApp2_1.2\ConsoleApp2_1.2\obj\Debug\ConsoleApp2_1.2.csproj.AssemblyReference.cache
+D:\проекты\ConsoleApp2_1.2\ConsoleApp2_1.2\obj\Debug\ConsoleApp2_1.2.csproj.CoreCompileInputs.cache
+D:\проекты\ConsoleApp2_1.2\ConsoleApp2_1.2\obj\Debug\ConsoleApp2_1.2.exe
+D:\проекты\ConsoleApp2_1.2\ConsoleApp2_1.2\obj\Debug\ConsoleApp2_1.2.pdb
+D:\проекты\ConsoleApp2_1.2\ConsoleApp2_1.2\obj\Debug\ConsoleApp2_1.2.exe.config
