@@ -21,6 +21,8 @@ namespace ConsoleApp1
                 double y = Math.Log10(x - 1);
                 Console.Write("y= {0:f2}", y);
             }
+            Console.Write("привет")
         }
     }
 }
+
